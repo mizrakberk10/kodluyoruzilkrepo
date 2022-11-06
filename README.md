@@ -5,3 +5,17 @@ Projemi cloneladım. Alt kısımda cloneladığım linki görebilirsiniz.
 ```
 git clone https://github.com/mizrakberk10/kodluyoruzilkrepo 
 ```
+## Usage
+Linux için:
+``` 
+cd kodluyoruzilkrepo
+code .
+``` 
+## Contributing
+Pull request kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## Licence
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
