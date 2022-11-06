@@ -1,4 +1,4 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
-#Installation
+# Installation
 'git clone https://github.com/mizrakberk10/kodluyoruzilkrepo
